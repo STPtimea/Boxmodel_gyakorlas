@@ -1,0 +1,20 @@
+table{
+    background-color: aqua;
+}
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.zold{
+    background-color: green;
+}
+
+.fekete{
+    background-color: black;
+    color: white;
+}
+
+#zold{
+    background-color: green;
+}

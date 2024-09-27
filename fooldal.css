@@ -1,0 +1,28 @@
+body{
+    background-color:aquamarine;
+}
+
+.elsoutolso{
+    background-color:azure;
+}
+
+#masodik {
+    margin-left: 10px;
+    border-top: dotted black;
+    border-bottom: dashed blue;
+    border-left: solid yellow;
+    border-right: green double;
+}
+
+#harmadik {
+    border: dashed red 3px;
+    padding: 15px;
+}
+
+#negyedik{
+    color: aliceblue;
+    background-image: url('kep3.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
